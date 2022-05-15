@@ -1,1 +1,1 @@
-# my-first-repository
+It contains my homework tasks in mohirdev.uz
