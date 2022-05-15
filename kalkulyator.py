@@ -1,0 +1,10 @@
+print("Assalomu alaykum")
+d = [1, 2, 3, 4]
+a = float(input("a sonni kiriting:\n>>>"))
+b = float(input("b sonni kiriting:\n>>>"))
+c = float(input("Amallardan birini bajarish uchun uning tartib raqamini kiriting:\n1.Qo'shish\n2.Ayirish\n3.Bo'lish\n4.Ko'paytirish\n>>>"))
+if c == 1: print(f"Sonlarning yig'indisi {a+b}ga teng")   
+if c == 2: print(f"Sonlarning ayirmasi {a-b}ga teng") 
+if c == 3: print(f"Sonlarning bo'linmasi {a/b}ga teng") 
+if c == 4: print(f"Sonlarning ko'paytmasi {a*b}ga teng")
+if c !=d: print("Siz tartib raqamdagi sonni kiritmadingiz")
